@@ -3,13 +3,11 @@
 - 🌱 I’m currently learning three.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Please post iamlovedit@163.com
-- :heart: You are my ![Visitor Count](https://profile-counter.glitch.me/iamlovedit/count.svg) visitor, Thanks
+- ![](https://github-readme-stats.vercel.app/api?username=iamlovedit&show_icons=true&theme=highcontrast&show_owner=true)   ![GitHub 连续提交天数](https://streak-stats.demolab.com/?user=iamlovedit&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api?username=iamlovedit&show_icons=true&theme=transparent)
+- ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamlovedit&theme=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlovedit&layout=compact&theme=tokyonight)
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamlovedit&theme=github)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlovedit&layout=compact&theme=tokyonight)
 
 <!---
 iamlovedit/iamlovedit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
