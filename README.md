@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @iamlovedit
-- 👀 I’m interested in Webgl、BIM Develop and so on
-- 🌱 I’m currently learning three.js
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @iamlovedit a full stack developer
+- 👀 I’m good at WPF Vue React and .Net backend
 - 📫 How to reach me? Please post iamlovedit@163.com
 - ![](https://github-readme-stats.vercel.app/api?username=iamlovedit&show_icons=true&theme=highcontrast&show_owner=true)   ![GitHub 连续提交天数](https://streak-stats.demolab.com/?user=iamlovedit&theme=dark)
 
