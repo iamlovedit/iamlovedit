@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamlovedit a full stack developer
-- 👀 I’m good at WPF Vue React and .Net backend
+- 👀 I’m good at frontend: WPF, Vue, React,backend: dotnet core, nestjs
 - 📫 How to reach me? Please post iamlovedit@163.com
 - ![](https://github-readme-stats.vercel.app/api?username=iamlovedit&show_icons=true&theme=highcontrast&show_owner=true)   ![GitHub 连续提交天数](https://streak-stats.demolab.com/?user=iamlovedit&theme=dark)
 
